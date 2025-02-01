@@ -1,9 +1,9 @@
-# Low Leverage Strategies for Digital Assets.
+# Profitability of a Perpetual Instrument
 Digital assets offer easy and simple methods to access low leverage trading strategies through perpetuals. These are generally strategies that would replicate a buy-and-hold situation, where you have a long term bullish outlook on the market. However, there are multitudes of solutions and platforms that could be used to optimize this solution.
 
 In this repository, I explore some numerical solutions to find the optimal path that minimizes cost, which mainly comes from Funding Fees.
 
-For practical purposes, I will only be using Coinbase (USDC) and Hyperliquid (USD) Perpetual Futures contracts.
+I will focus on attempting to trade on Hyperliquid as I will be able to provide the live performance of the platform without compromising my wallet address.
 
 ## Timeline
 
