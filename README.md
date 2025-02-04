@@ -6,7 +6,9 @@ In this repository, I explore some numerical solutions to find the optimal path 
 I will focus on attempting to trade on Hyperliquid as I will be able to provide the live performance of the platform without compromising my wallet address.
 
 ## Timeline
-
+01/02/2025 - 1_fundingfees.ipynb 
+03/02/2025 - 2_fundingandprice.ipynb
+04/02/2025 - Hyperliquid Vault Set-up
 ## 1 Funding Fees and its affect
 ### Key Findings
 1. Expected Loss from Funding Fees (hourly, 3 months, 50 simulations, pearson distribution)
@@ -28,6 +30,42 @@ I will focus on attempting to trade on Hyperliquid as I will be able to provide 
 
 ## 2 Funding Fees + Volatility
 
-## 3 Funding Fees + Volatility + Premium Spread
+## Live Testing
+### Hyperliquid Vault Setup
 
-## 4 Platform Comparisons - 
+#### Introduction and Rules
+For the purposes of estimating the performance of the portfolio, I decide to use a [Hyperliquid Vault](https://hyperliquid.gitbook.io/hyperliquid-docs/vaults) to ensure visibility and transparency of the portfolio. However, I will not share the details of the vault as it will expose my on-chain identity, which I wish to keep private. The vault's performance will be based on regular updates on this github repository.
+
+The initial setup will be as such
+- Position Size: 2x Leverage (With potential to change)
+- Asset: BTC (ETH/SOL/XRP)
+- Duration: XX FEB 25 - 31 MAR 25
+
+Throughout the duration of the trade, I will not make discretionary trades with the vault, unless necessary (Some of the conditions would be: bankruptcy, getting robbed or any extreme circumstances).
+
+#### Expected Results
+Based on the testing, at the end of the duration (given that I only had 2 out of 3 backtested months) would be:
+1. Returns: +46% 
+2. Percentiles
+   1. 95th: +200%
+   2. 5th: -20%
+3. Liquidation Risk: 0.8%
+
+#### Timeline (Weekly)
+| Date | APR (7d) | APR (30d) | Age (days) |
+|------|----------|-----------|------------|
+|04/02/2025|0%|0%|0|
+|10/02/2025|||0|
+|17/02/2025|||0|
+|24/02/2025|||0|
+|03/03/2025|||0|
+|10/03/2025|||0|
+|17/03/2025|||0|
+|24/03/2025|||0|
+|31/03/2025|||0|
+
+
+## Further Development
+1. Platform Comparisons
+   1. different platforms have different funding mechanisms. 
+   2. Would I pay lesser on a platform that charges 8 hourly vs hourly?
