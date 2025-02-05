@@ -39,16 +39,16 @@ For the purposes of estimating the performance of the portfolio, I decide to use
 The initial setup will be as such
 - Position Size: 2x Leverage (With potential to change)
 - Asset: BTC (ETH/SOL/XRP)
-- Duration: XX FEB 25 - 31 MAR 25
+- Duration: 05 FEB 25 - 31 MAR 25
 
 Throughout the duration of the trade, I will not make discretionary trades with the vault, unless necessary (Some of the conditions would be: bankruptcy, getting robbed or any extreme circumstances).
 
 #### Expected Results
 Based on the testing, at the end of the duration (given that I only had 2 out of 3 backtested months) would be:
-1. Returns: +46% 
+1. Returns: +46% (Extrapolated) 
 2. Percentiles
-   1. 95th: +200%
-   2. 5th: -20%
+   1. 95th: +200% (Not Extrapolated)
+   2. 5th: -20% (Not Extrapolated)
 3. Liquidation Risk (50%): 0.85%
 
 #### Timeline (Weekly)
