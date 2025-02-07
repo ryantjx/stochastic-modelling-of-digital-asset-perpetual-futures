@@ -52,17 +52,17 @@ Based on the testing, at the end of the duration (given that I only had 2 out of
 3. Liquidation Risk (50%): 0.85%
 
 #### Timeline (Weekly)
-| Date | Est. Price (USD) |APR (7d) | APR (30d) | Age (days) 
-|------| ---- |----------|-----------|------------|
-|05/02/2025 (Start Date)| $97,888 (Entry Price) |0%|0%|0|
-|10/02/2025|||0||
-|17/02/2025|||0||
-|24/02/2025|||0||
-|03/03/2025|||0||
-|10/03/2025|||0||
-|17/03/2025|||0||
-|24/03/2025|||0||
-|31/03/2025|||0||
+| Date | Est. Price (USD) | Cumulative Returns (%) | APR (7d) | APR (30d) | Funding Fees (USD) | Age (days) | 
+|-|-|-|-|-|-|-|
+|05/02/2025 (Start Date)| $97,888 (Entry Price) |0%|0%|0|0||
+|10/02/2025|||0||||
+|17/02/2025|||0||||
+|24/02/2025|||0||||
+|03/03/2025|||0||||
+|10/03/2025|||0||||
+|17/03/2025|||0||||
+|24/03/2025|||0||||
+|31/03/2025|||0||||
 
 ## Further Development
 1. Platform Comparisons
