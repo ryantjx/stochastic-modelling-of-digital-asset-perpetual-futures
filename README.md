@@ -49,7 +49,9 @@ Based on the testing, at the end of the duration (given that I only had 2 out of
 2. Percentiles
    1. 95th: +200% (Not Extrapolated)
    2. 5th: -20% (Not Extrapolated)
-3. Liquidation Risk (50%): 0.85%
+3. Fees
+   1. Mean: $676.013 (+- $162.30)
+4. Liquidation Risk (50%): 0.85%
 
 #### Timeline (Weekly)
 | Date | Est. Price (USD) | Portfolio Cumulative Returns (%) | APR (7d) | APR (30d) | Funding Fees (USD) | Age (days) | 
