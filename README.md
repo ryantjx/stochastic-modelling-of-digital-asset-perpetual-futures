@@ -57,8 +57,8 @@ Based on the testing, at the end of the duration (given that I only had 2 out of
 | Date | Est. Price (USD) | Portfolio Cumulative Returns (%) | APR (7d) | APR (30d) | Funding Fees (USD) | Age (days) | 
 |-|-|-|-|-|-|-|
 |05/02/2025 (Start Date)| $97,888 (Entry Price) |0%|0%|0|0||
-|10/02/2025|$96,907 (7:37AM)| - 2.3% ||||6|
-|17/02/2025|||0||||
+|10/02/2025|$96,907 (7:37AM SGT)| - 1.00% ||||6|
+|17/02/2025|$96,250 (12:30PM SGT)| - 1.67% |0||||
 |24/02/2025|||0||||
 |03/03/2025|||0||||
 |10/03/2025|||0||||
