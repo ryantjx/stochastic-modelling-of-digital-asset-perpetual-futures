@@ -65,6 +65,9 @@ Based on the testing, at the end of the duration (given that I only had 2 out of
 | 28/02/2025 | $84,705.63 | -13.47% | 23 |
 | 03/03/2025 | $94,248.42 | -3.72% | 26 |
 | 07/03/2025 | $89,963.28 | -8.10% | 30 |
+| 10/03/2025 | $80,597.15 |  | |
+
+[BTC Historical Data](https://coinmarketcap.com/currencies/bitcoin/historical-data/)
 
 <!-- |10/02/2025|$96,907 (7:37AM SGT)| - 1.00% ||||6|
 |17/02/2025|$96,250 (12:30PM SGT)| - 1.67% |0||||
