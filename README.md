@@ -54,18 +54,23 @@ Based on the testing, at the end of the duration (given that I only had 2 out of
 4. Liquidation Risk (50%): 0.85%
 
 #### Timeline (Weekly)
-| Date | Est. Price (USD) | Portfolio Cumulative Returns (%) | Age (days) |
-|------------|----------------|----------------------------------|------------|
-| 05/02/2025 | $97,888.00 | 0.00% | 0 |
-| 10/02/2025 | $96,499.46 | -1.42% | 5 |
-| 14/02/2025 | $96,623.37 | -1.29% | 9 |
-| 17/02/2025 | $96,179.00 | -1.75% | 12 |
-| 21/02/2025 | $98,340.67 | 0.46% | 16 |
-| 24/02/2025 | $96,277.96 | -1.64% | 19 |
-| 28/02/2025 | $84,705.63 | -13.47% | 23 |
-| 03/03/2025 | $94,248.42 | -3.72% | 26 |
-| 07/03/2025 | $89,963.28 | -8.10% | 30 |
-| 10/03/2025 | $80,597.15 |  | |
+| Date       | Est. Price (USD) | Cumulative Return (%) | Age (days) |
+|------------|------------------|------------------------|------------|
+| 05/02/2025 | 97,888.00        | 0.00%                  | 0          |
+| 10/02/2025 | 96,499.46        | -1.42%                 | 5          |
+| 14/02/2025 | 96,623.37        | -1.29%                 | 9          |
+| 17/02/2025 | 96,179.00        | -1.75%                 | 12         |
+| 21/02/2025 | 98,340.67        | 0.46%                  | 16         |
+| 24/02/2025 | 96,277.96        | -1.64%                 | 19         |
+| 28/02/2025 | 84,705.63        | -13.47%                | 23         |
+| 03/03/2025 | 94,248.42        | -3.72%                 | 26         |
+| 07/03/2025 | 89,963.28        | -8.10%                 | 30         |
+| 10/03/2025 | 80,597.15        | -17.69%                | 33         |
+| 13/03/2025 | 83,724.92        | -14.47%                | 36         |
+| 17/03/2025 | 82,576.33        | -15.63%                | 40         |
+| 21/03/2025 | 84,164.54        | -14.00%                | 44         |
+| 24/03/2025 | 86,070.93        | -12.09%                | 47         |
+| 31/03/2025 | 82,336.06        | -15.91%                | 54         |
 
 [BTC Historical Data](https://coinmarketcap.com/currencies/bitcoin/historical-data/)
 
@@ -77,6 +82,14 @@ Based on the testing, at the end of the duration (given that I only had 2 out of
 |17/03/2025|||0||||
 |24/03/2025|||0||||
 |31/03/2025|||0|||| -->
+
+## Results
+
+![Monte Carlo Simulation of PnL from 2020-2024 Q1 Returns + Funding Fees (July - December from Hyperliquid) vs Actual](montecarlo_pnl.png)
+
+
+![Monte Carlo Simulation of Funding Fees vs Actual](fundingfees_pnl.png)
+
 
 ## Further Development
 1. Platform Comparisons
